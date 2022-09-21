@@ -1,0 +1,14 @@
+﻿{
+  "Hunter": {
+    "imgURL": "App_themes/images/hunter.png",
+    "abilityName": "Core Exposure",
+    "abilityDescription": "Hunter boosts its combat mobility by exposing the core from armour and shields",
+    "abilityData": "Attack Bonus: 35%/25%/20%"
+  },
+  "Coordinator": {
+    "imgURL": "App_themes/images/coordinator.png",
+    "abilityName": "Fire Control",
+    "abilityDescription": "Coordinator maximizes its defense by utilizing multiple low power modules. ",
+    "abilityData": "Defence Bonus: 35%/25%/20%"
+  }
+}
