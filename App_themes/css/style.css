@@ -1,0 +1,56 @@
+﻿body {
+    background-image: linear-gradient(to right, rgb(9,12,17),rgb(41,54,54), rgb(74,96,92));
+    color: white;
+}
+
+#navbar {
+        font-size: 2.25rem;
+        background-image: linear-gradient(to right, rgb(9,12,17),rgb(41,54,54), rgb(74,96,92));
+}
+
+#footer {
+    background-image: linear-gradient(to right, rgb(9,12,17),rgb(41,54,54), rgb(74,96,92));
+}
+
+
+
+/*
+    Home
+*/
+
+.main-container {
+    padding-top: 150px;
+    min-height: 85%;
+}
+
+/*.type-container {
+    padding-top: 200px;
+}*/
+
+.radioClass {
+    width: 20px;
+    height: 25px;
+    padding-left: 0px;
+    border-spacing: 5em;
+}
+
+
+.left-side {
+    border-right: 5px solid #ffc107;
+}
+
+#rightSide{
+    padding-top: 2000px;
+}
+
+.shipImage{
+/*    width: 10px;
+    height: 10px;*/
+}
+
+
+.paddingRight tr td:nth-child(1) {
+    padding-right: 200px;
+}
+
+
